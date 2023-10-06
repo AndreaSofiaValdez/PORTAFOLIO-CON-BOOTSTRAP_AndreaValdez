@@ -1,0 +1,76 @@
+.colorfondo{
+    background-color: #38040E;
+}
+
+
+.colorfondopag2{
+    background-color: #E7D7C1;
+}
+
+.img-separador{
+    width: 30%;
+    margin-left: 2rem;
+}
+
+.espacio-arriba{
+    margin-top: 2%;
+}
+
+.img-perfil{
+    width: 80%;
+    padding: 3rem;
+    justify-content: center;
+    margin-left: 7rem;
+}
+
+.img-mujerpc{
+    width: 100%;
+    padding: 2rem;
+    justify-content: center;
+    margin-left: 1rem;
+}
+
+.titulo-h2{
+    color: #E7D7C1;
+    text-align: center;
+}
+
+.titulo-h3{
+    color: #BF4342;
+    text-align: center;
+}
+
+.titulo-h4{
+    text-align: center;
+    color: #E7D7C1;
+    padding-left: 2rem;
+}
+
+.titulo-h2-pag2{
+    color: #640D14;
+}
+
+.h2-pag2{
+    padding: 2rem;
+}
+
+.titulo-h1-pag2{
+    color: #E7D7C1;
+    text-align: center;
+    padding: 2rem;
+}
+
+.img-conocimientos{
+    width: 100%;
+    height: 100%;
+    
+}
+
+.margen-fila{
+    justify-content: center;
+    padding: 1rem;
+}
+
+.margen-fila-footer{
+    text-align: center;
+}
